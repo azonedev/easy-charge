@@ -3,7 +3,7 @@
     "description": "EasyCharge made it easy to implement different types of payment gateways",
     "autoload": {
         "psr-4": {
-            "Azonedev\\EasyCharge\\": "src/"
+            "EasyCharge\\": "src/"
         }
     },
     "authors": [
